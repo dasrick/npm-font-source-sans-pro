@@ -1,0 +1,32 @@
+{
+  "name": "npm-font-source-sans-pro",
+  "version": "0.0.1",
+  "description": "Source Sans Pro font family by Adobe",
+  "author": {
+    "name": "Paul D. Hunt",
+    "url": "https://github.com/adobe-fonts/source-sans-pro/",
+    "email": "opensourcefonts@adobe.com"
+  },
+  "contributors": [
+    {
+      "name": "Enrico Hoffmann",
+      "email": "dasrick@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/npm-font-source-sans-pro.git"
+  },
+  "keywords": [
+    "font",
+    "source",
+    "sans",
+    "pro"
+  ],
+  "license": "SIL OFL 1.1",
+  "bugs": {
+    "url": "https://github.com/dasrick/npm-font-source-sans-pro/issues"
+  },
+  "homepage": "https://github.com/dasrick/npm-font-source-sans-pro#readme",
+  "main": "./source-sans-pro.css"
+}
