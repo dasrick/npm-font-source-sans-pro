@@ -34,3 +34,8 @@ First import the LESS file of the font and after this overwrite the default path
 [Source Sans Pro at Adobe](https://github.com/adobe-fonts/source-sans-pro/)
 
 used version: 2.010R-ro/1.065R-it (release date: 2014-07-09)
+
+
+## License
+
+Fonts: Licensed under [SIL OPEN FONT LICENSE Version 1.1](https://github.com/dasrick/npm-font-source-sans-pro/blob/master/LICENSE)
