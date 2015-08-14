@@ -19,7 +19,14 @@ $ npm i npm-font-source-sans-pro --save
 
 ## Usage
 
-...
+This a sample for usage in a LESS file:
+
+```
+@import '../../../node_modules/npm-font-source-sans-pro/source-sans-pro';
+@FontPathSourceSansPro: "../fonts/source-sans-pro";
+```
+
+First import the LESS file of the font and after this overwrite the default path. That's it ...
 
 
 ## Source of font files
