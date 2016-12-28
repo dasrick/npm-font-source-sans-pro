@@ -13,7 +13,7 @@
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm i npm-font-source-sans-pro --save
+$ npm i -S npm-font-source-sans-pro
 ```
 
 
@@ -28,12 +28,13 @@ This a sample for usage in a LESS file:
 
 First import the LESS file of the font and after this overwrite the default path. That's it ...
 
+You can do the same with SCSS/SASS too ...
 
 ## Source of font files
 
 [Source Sans Pro at Adobe](https://github.com/adobe-fonts/source-sans-pro/)
 
-used version: 2.010R-ro/1.065R-it (release date: 2014-07-09)
+used version: 2.020R-ro/1.075R-it (release date: 2015-09-16)
 
 
 ## License
