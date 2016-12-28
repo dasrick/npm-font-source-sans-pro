@@ -46,7 +46,7 @@ Fonts: Licensed under [SIL OPEN FONT LICENSE Version 1.1](https://github.com/das
 
 ***
 
-[github-tag-image]: https://img.shields.io/github/downloads/dasrick/npm-font-source-sans-pro/total.svg?style=flat-square
+[github-tag-image]: https://img.shields.io/github/tag/dasrick/npm-font-source-sans-pro/total.svg?style=flat-square
 [github-tag-url]: https://github.com/dasrick/npm-font-source-sans-pro
 
 [npm-version-image]: https://img.shields.io/npm/v/npm-font-source-sans-pro.svg?style=flat-square
