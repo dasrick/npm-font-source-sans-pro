@@ -24,6 +24,7 @@ $ npm i -S npm-font-source-sans-pro
 This a sample for usage in a LESS file:
 
 ```
+# part of your LESS file
 @import '../../../node_modules/npm-font-source-sans-pro/source-sans-pro';
 @FontPathSourceSansPro: "../fonts/source-sans-pro";
 ```
@@ -31,6 +32,12 @@ This a sample for usage in a LESS file:
 First import the LESS file of the font and after this overwrite the default path. That's it ...
 
 You can do the same with SCSS/SASS too ...
+
+```
+# part of your SCSS file
+$FontPathSourceSansPro: "../fonts/source-sans-pro";
+@import '../../../node_modules/npm-font-source-sans-pro/source-sans-pro';
+```
 
 
 ## Source of font files
