@@ -1,7 +1,7 @@
 {
   "name": "npm-font-source-sans-pro",
   "version": "1.0.1",
-  "description": "Source Sans Pro font family by Adobe",
+  "description": "Source Sans Pro font family by Adobe - incl. usage of CSS, SCSS, LESS",
   "author": {
     "name": "Paul D. Hunt",
     "url": "https://github.com/adobe-fonts/source-sans-pro/",
@@ -19,9 +19,14 @@
   },
   "keywords": [
     "font",
+    "fontface",
     "source",
     "sans",
-    "pro"
+    "pro",
+    "css",
+    "sass",
+    "scss",
+    "less"
   ],
   "license": "OFL-1.1",
   "bugs": {
